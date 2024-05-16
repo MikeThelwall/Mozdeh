@@ -3,6 +3,7 @@ This repository contains two versions of the Windows software Mozdeh for social 
 
 To run Mozdeh, download one of the two versions to a Windows computer and double-click on it to start it.
 The compulsory anonymisation version automatically anonymises usernames and is intended for educational use and sensitive research topics or other contexts where ethical considerations requires user anonymisation.
+There are older versions of both programs that work on more computers than the latest version (I haven't worked out why yet) so please try them if the main versions do not open on your computer.
 
 The above list also contains a zipfile of gender and sentiment files and default vocabulary (SentimentAndGender_subfolders_of_moz_data.zip). After starting Mozdeh for the first time, it will create a subfolder called moz_data. Unzip the zipfile into this folder so that the three folders in the zipfile are unzipped inside of moz_data
 The main website is available here https://mi-linux.wlv.ac.uk/~cm1993/mozdeh/ but contains older versions of Mozdeh.
