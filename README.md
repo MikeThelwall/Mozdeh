@@ -7,8 +7,8 @@ The compulsory anonymisation version automatically anonymises usernames and is i
 There are older versions of both programs that work on more computers than the latest version (I haven't worked out why yet) so please try them if the main versions do not open on your computer.
 
 The above list also contains a zipfile of gender and sentiment files and default vocabulary (SentimentAndGender_subfolders_of_moz_data.zip). After starting Mozdeh for the first time, it will create a subfolder called moz_data. Unzip the zipfile into this folder so that the three folders in the zipfile are unzipped inside of moz_data
-The main website is available here https://mi-linux.wlv.ac.uk/~cm1993/mozdeh/ but contains older versions of Mozdeh.
+The main website is available here http://mozdeh.wlv.ac.uk/ or here https://mi-linux.wlv.ac.uk/~cm1993/mozdeh/ but contains older versions of Mozdeh.
 
-There is no user manual but https://mi-linux.wlv.ac.uk/~cm1993/mozdeh/ serves as a manual and you can download and unzip MozdehWebSite.zip on your computer and navigate a local copy of the website from the index.html file.
+There is no user manual but the above website serves as a manual and you can download and unzip MozdehWebSite.zip on your computer and navigate a local copy of the website from the index.html file.
 
 If you get the error message, "This app can't run on your PC", make sure you have downloaded the program (>2Mb) not the information page (<1Mb). 
