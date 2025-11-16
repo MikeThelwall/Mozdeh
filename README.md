@@ -12,3 +12,5 @@ The main website is available here http://mozdeh.wlv.ac.uk/ or here https://mi-l
 There is no user manual but the above website serves as a manual and you can download and unzip MozdehWebSite.zip on your computer and navigate a local copy of the website from the index.html file.
 
 If you get the error message, "This app can't run on your PC", make sure you have downloaded the program (>2Mb) not the information page (<1Mb). 
+
+Mozdeh only runs on Windows.
