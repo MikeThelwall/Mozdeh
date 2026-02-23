@@ -19,3 +19,5 @@ There is no user manual but the above website serves as a manual and you can dow
 If you get the error message, "This app can't run on your PC", make sure you have downloaded the program (>2Mb) not the information page (<1Mb). 
 
 Mozdeh only runs on Windows.
+
+Mozdeh is a Persian name, meaning good news. When not collecting data for you, Mozdeh can be found here: https://www.youtube.com/watch?v=9yIMBrpHMhk
