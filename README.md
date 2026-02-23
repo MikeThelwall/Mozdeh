@@ -4,7 +4,7 @@ Left click on the above links then click on the download button on the right han
 
 To run Mozdeh, download one of the three versions to a Windows computer and double-click on it to start it.
 The compulsory anonymisation version automatically anonymises usernames and is intended for educational use and sensitive research topics or other contexts where ethical considerations requires user anonymisation.
-The two Bluesky variants include Bluesky query support, and you might need to install .NET 8.0 to get them working https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+The Bluesky variants include Bluesky query support, and you might need to install .NET 8.0 to get them working https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
 The above list also contains a zipfile of gender and sentiment files and default vocabulary (SentimentAndGender_subfolders_of_moz_data.zip). After starting Mozdeh for the first time, it will create a subfolder called moz_data. Unzip the zipfile into this folder so that the three folders in the zipfile are unzipped inside of moz_data
 
