@@ -12,7 +12,7 @@ To use Mozdeh to get YouTube comments, you will need a YouTube Data API v3 key f
 
 To use Mozdeh to get Bluesky posts, you will need a Bluesky username and password (i.e., sign up for bluesky).
 
-The main website has gone for a long time http://mozdeh.wlv.ac.uk/ or here https://mi-linux.wlv.ac.uk/~cm1993/mozdeh/ but contains older versions of Mozdeh.
+The main website has gone for a long time http://mozdeh.wlv.ac.uk/ or here https://mi-linux.wlv.ac.uk/~cm1993/mozdeh/ but archived versions are here: https://web.archive.org/web/20230521064802/http://mozdeh.wlv.ac.uk/
 
 There is no user manual but the above website serves as a manual and you can download and unzip MozdehWebSite.zip on your computer and navigate a local copy of the website from the index.html file.
 
