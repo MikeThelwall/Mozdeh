@@ -7,7 +7,12 @@ The compulsory anonymisation version automatically anonymises usernames and is i
 The two Bluesky variants include Bluesky query support, and you might need to install .NET 8.0 to get them working https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
 The above list also contains a zipfile of gender and sentiment files and default vocabulary (SentimentAndGender_subfolders_of_moz_data.zip). After starting Mozdeh for the first time, it will create a subfolder called moz_data. Unzip the zipfile into this folder so that the three folders in the zipfile are unzipped inside of moz_data
-The main website is available here http://mozdeh.wlv.ac.uk/ or here https://mi-linux.wlv.ac.uk/~cm1993/mozdeh/ but contains older versions of Mozdeh.
+
+To use Mozdeh to get YouTube comments, you will need a YouTube Data API v3 key from here https://developers.google.com/youtube/registering_an_application
+
+To use Mozdeh to get Bluesky posts, you will need a Bluesky username and password (i.e., sign up for bluesky).
+
+The main website has gone for a long time http://mozdeh.wlv.ac.uk/ or here https://mi-linux.wlv.ac.uk/~cm1993/mozdeh/ but contains older versions of Mozdeh.
 
 There is no user manual but the above website serves as a manual and you can download and unzip MozdehWebSite.zip on your computer and navigate a local copy of the website from the index.html file.
 
