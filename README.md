@@ -1,4 +1,4 @@
-# Mozdeh
+## Mozdeh
 This repository contains three versions of the Windows software Mozdeh for social media downloading (YouTube comments and Reddit posts) and analysis (sentiment, gender, Word Association Thematic Analysis).
 Left click on the above links then click on the download button on the right hand side of the new pages to download the files (you can't download them directly from this page).
 
@@ -21,3 +21,12 @@ If you get the error message, "This app can't run on your PC", make sure you hav
 Mozdeh only runs on Windows.
 
 Mozdeh is a Persian name, meaning good news. When not collecting data for you, Mozdeh can be found here: https://www.youtube.com/watch?v=9yIMBrpHMhk
+
+# Advanced notes
+
+# YouTube comments vocabulary reference set file
+Comments on the YouTube videos of 282 UK female lifestyle influencers collected in 2023. For use as a reference collection for Mozdeh word association analyses with YouTube comments. Data from this paper: https://doi.org/10.1108/JD-02-2021-0033
+To use this file,
+(1) save it to your local computer (ideally in the vocabularies subfolder of Mozdeh's moz_data folder if possible).
+(2) open your Mozdeh project with your collected data and click the button "Load Word freq. List Reference Set" to the right of the "Mine associations for search and filters (slow)" button at the bottom right of the screen and accept the defaults, except for entering 21908453 as the number of comments.
+(3) set whatever search and filters you want and then click the "Mine associations for search and filters (slow)" button. This will now show words that occur more often in your set than in the reference set.
